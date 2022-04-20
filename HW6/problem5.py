@@ -1,6 +1,5 @@
 # Rolando Rosales 1001850424 - problem4.py
 import numpy as np
-import random as rn
 import matplotlib.pyplot as plt
 
 def main():
